@@ -1,0 +1,13 @@
+{
+  "java.project.sourcePaths": [
+    "src\\main\\java"
+  ],
+  "java.project.outputPath": "build\\frontoffice-classes",
+  "java.project.referencedLibraries": [
+    "c:\\Users\\Nomena Christian\\Documents\\Workflow\\VISA\\Frontoffice\\lib\\servlet-api.jar",
+    "c:\\Users\\Nomena Christian\\Documents\\Workflow\\VISA\\Frontoffice\\lib\\framework.jar",
+    "c:\\Users\\Nomena Christian\\Documents\\Workflow\\VISA\\Frontoffice\\lib\\jakarta.servlet-api-5.0.0.jar"
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.compile.nullAnalysis.mode": "automatic"
+}
